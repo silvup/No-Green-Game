@@ -1,2 +1,2 @@
 # No-Green-Game
-Unity reminder
+A game that was supposed to be a short game jam entry but instead was a way to remind myself what Unity was about.
